@@ -49,7 +49,10 @@ _**Line Graph** – Sales Channel by Month
 
 ## Analysis and Visualization
 
-![](onyxData Dashboard overview.png)
+![](onyxDataDashboardoverview.png)
+
+
+
 
 
 
