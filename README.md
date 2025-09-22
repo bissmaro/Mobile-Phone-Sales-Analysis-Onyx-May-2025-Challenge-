@@ -46,10 +46,10 @@ _**Line Graph** – Sales Channel by Month
 -**Bar Chart** – Total Revenue by Brand
 -**Donut Chart** – Units Sold by Operating System
 -**Clustered Bar Chart** – Total Revenue by Customer Age Category and Gender
-
+![](onyxDataDashboardoverview.png)
 ## Analysis and Visualization
 
-![](onyxDataDashboardoverview.png)
+
 
 
 
