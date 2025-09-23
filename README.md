@@ -80,6 +80,4 @@ _**Line Graph** – Sales Channel by Month
     
 **4.	Regional Focus**
   -	Increase marketing and promotional efforts in Bursa and Chennai, while analyzing underperforming regions to replicate best practices.
-
-
-
+<img width="1132" height="758" alt="Screenshot 2025-09-23 030654" src="https://github.com/user-attachments/assets/85f1a2d5-9df8-4755-9249-a3313e39e2dd" />
