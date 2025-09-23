@@ -46,18 +46,40 @@ _**Line Graph** – Sales Channel by Month
 -**Bar Chart** – Total Revenue by Brand
 -**Donut Chart** – Units Sold by Operating System
 -**Clustered Bar Chart** – Total Revenue by Customer Age Category and Gender
-![](onyxDataDashboardoverview.png)
+
 ## Analysis and Visualization
 
+### Dashboard overview 
+<img width="1066" height="623" alt="Screenshot 2025-09-07 124448" src="https://github.com/user-attachments/assets/8d4238f9-0c9d-4c1c-a6b0-75d835a3836b" />
 
+### Product dashboard
+<img width="1078" height="627" alt="Screenshot 2025-09-16 101531" src="https://github.com/user-attachments/assets/02815faf-ed91-47f8-a86e-bd9d217269a3" />
 
+### customer dashboard
+<img width="1112" height="636" alt="Screenshot 2025-09-16 101810" src="https://github.com/user-attachments/assets/2fc352a0-b1bd-4ab2-9b58-819be6873744" />
 
+-	**Top Brands:** Apple and Samsung dominate both in revenue and units sold, while OnePlus emerges as a strong competitor in the mid-to-high range segment.
+-	**Product Preferences:** 128GB storage models are the most popular, striking a balance between affordability and capacity. Best-selling models include Samsung Galaxy S25 Ultra, iPhone 14, OnePlus 12 Pro, and Samsung Z Fold 6.
+-	**Sales Channels:** Online platforms drive the largest share of sales, followed by retail stores. Partner channels contribute the least to overall revenue.
+-	**Customer Demographics:** Adults (25–44 years) and young customers (18–24 years) generate the highest revenue. Male customers contribute more revenue, though females also represent a significant and growing market.
+-	**Geographic Insights:** Bursa (Turkey) and Chennai (India) stand out as the top-performing cities in terms of sales revenue.
 
-
-
-
-
-
+## Recommendations
+**1.	Brand & Product Strategy**
+ -	Prioritize partnerships with Apple, Samsung, and OnePlus.
+ -	Expand inventory and marketing focus on flagship devices with 128GB storage.
+ 	
+**2.	Channel Optimization**
+   - Invest more in online platforms through digital marketing, customer engagement, and faster delivery systems.
+   - strengthen retail strategies with in-store promotions and personalized shopping experiences.
+   - Reassess and renegotiate partner strategies to boost their performance.
+     
+**3.	Customer Segmentation**
+  -	Develop targeted campaigns for adults and young customers, leveraging social media and digital ads.
+  -	Introduce tailored offers to attract more female buyers, such as influencer-driven promotions and product bundles.
+    
+**4.	Regional Focus**
+  -	Increase marketing and promotional efforts in Bursa and Chennai, while analyzing underperforming regions to replicate best practices.
 
 
 
