@@ -17,7 +17,7 @@ At the beginning of my data analysis journey, I started with Excel, using the **
 
 -	**Data Cleaning & Transformation:** Handling missing values, removing duplicates, and preparing structured data.
 -	**Excel Functions & Pivot Tables:** Aggregating and summarizing key metrics.
--	**Data Visualization:** Using charts, slicers, and dashboards for storytelling.
+-	**Data Visualization:** Using charts,customised navigator and dashboards for storytelling.
 -	**Business Intelligence & Analysis:** Identifying trends, patterns, and insights from data.
 -	**KPI Design:** Tracking revenue, unit sales, average price, and transaction counts.
 
